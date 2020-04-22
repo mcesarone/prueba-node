@@ -41,4 +41,4 @@ console.log(carritoConDescuento);
 carrito.forEach(function(element){
     console.log('Producto: ' + element.prod + ' Precio: ' + element.precio);
 });
-
+ console.log(carritoConDescuento);
